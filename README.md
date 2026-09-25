@@ -14,9 +14,9 @@ Product Engineer. I like taking things from idea to shipped.
 
 ### Building
 
-- **[Owlet Campus](https://owlet-campus.com)** — started as a freelance gig, ended up as founding engineer. Built the AI voice interview system (OpenAI Realtime API over WebRTC) and the whole Razorpay credit/wallet setup.
+- **Owlet Campus** — started as a freelance gig, ended up as founding engineer. Built the AI voice interview system (OpenAI Realtime API over WebRTC) and the whole Razorpay credit/wallet setup.
 - **Taptap** — grew this to 160k+ registered users, 56k+ monthly actives.
-- **Blush** — a photo editor that runs entirely client-side, nothing ever leaves your browser.
+- **[Blush](https://blush-app-plum.vercel.app/)** — a photo editor that runs entirely client-side, nothing ever leaves your browser.
 - **Craft My Plate** — added OpenTelemetry tracing and SigNoz dashboards to it for a hackathon.
 - **Peaceful Todo** — a pastel new-tab Chrome extension with a persistent side panel.
 
